@@ -1,10 +1,3 @@
 ## About me
 
-Hi everyone!
-I'm Bruno, graduated in Sanitary and Environmental Engineering from the Federal University of Santa Catarina (Brazil).
-
-Currently, I'm pursuing a Master's degree in the Remote Sensing Postgraduate program at the National Institute for Space Research (Brazil). 
-
-I enjoy working with QGIS, R and Python (and Google Earth Engine) and I'd really appreciate improving my knowledge on these matters. Is one of the reasons I'm here!
-
-You can contact me at <b.rech@outlook.com>
+Currently pursuing a Master's degree in Remote Sensing at the Brazilian National Institute for Space Research (INPE). Graduated in Sanitary and Environmental Engineering from the Federal University of Santa Catarina (UFSC). Active member of the Instrumentation Laboratory for Aquatic Systems (LabISA/INPE) and the Aquarela Lab (University of São Paulo), conducting research on hyperspectral remote sensing applied to inland and coastal waters, with a focus on phytoplankton characterization.
